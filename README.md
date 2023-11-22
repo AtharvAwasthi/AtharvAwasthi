@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Atharv Awasthi</h1>
+<h1 align="center">Hey 👋, I'm Atharv Awasthi</h1>
 <h3 align="center">Math + CS @ <a href="https://www.viper.upenn.edu/">VIPER</a> | Data Science Masters @ Penn</h3>
 
 - 👨‍💻 Machine learning researcher at **Modular Robotics (GRASP) Lab**
 
-- 🌱 Completed coursework in **Discrete Mathematics; Data Structures and Algorithms, Automata, Computability, and Complexity; Big Data; Differential Equations; Advanced Linear Algebra; Probability**
-
 - 🤝 Teaching graduate-level statistics at **The Wharton School**
+
+- 🌱 Completed coursework in **Discrete Mathematics; Data Structures and Algorithms, Automata, Computability, and Complexity; Big Data; Differential Equations; Advanced Linear Algebra; Probability**
 
 - ⚡ Interested in **AI/ML, Applied Mathematics, Renewable Energy Research**
 
