@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Awasthi</h1>
-<h3 align="center">Math + CS @ VIPER@Penn | Data Science Masters @ Penn</h3>
+<h3 align="center">Math + CS @ <a href="https://www.viper.upenn.edu/">VIPER@Penn</a> | Data Science Masters @ Penn</h3>
 
 - 👨‍💻 Machine learning researcher at **Modular Robotics (GRASP) Lab**
 
