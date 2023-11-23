@@ -7,7 +7,7 @@
 
 - 🌱 Completed coursework in **Discrete Mathematics; Data Structures and Algorithms, Automata, Computability, and Complexity; Big Data; Differential Equations; Advanced Linear Algebra; Probability**
 
-- ⚡ Interested in **AI/ML, Applied Mathematics, Renewable Energy Research**
+- ⚡ Interested in **AI/ML, Applied Mathematics, Renewable Energy Technologies**
 
 - 📫 Reach me at **aawas22@seas.upenn.edu**
 
