@@ -3,7 +3,7 @@
 
 - 👨‍💻 Machine learning researcher at **Modular Robotics (GRASP) Lab**
 
-- 🤝 Teaching graduate-level statistics at **The Wharton School**
+- 🤝 Teaching *Data Structures and Algorithms* at **Penn Engineering** and *Graudate Probability* at **The Wharton School**
 
 - 🌱 Completed coursework in **Discrete Mathematics; Data Structures and Algorithms, Automata, Computability, and Complexity; Big Data Analytics; Machine Learning; Databases; Differential Equations; Advanced Linear Algebra; Probability**
 
