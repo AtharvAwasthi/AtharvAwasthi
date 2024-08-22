@@ -7,7 +7,7 @@
 
 - 🌱 Completed coursework in **Discrete Mathematics; Data Structures and Algorithms, Automata, Computability, and Complexity; Big Data Analytics; Machine Learning; Databases; Differential Equations; Advanced Linear Algebra; Real Analysis; Probability; Ethical Algorithm Design; Operating Systems**
 
-- ⚡ Interested in **AI/ML, Applied Mathematics, Quantitative Finance, Renewable Energy Technologies**
+- ⚡ Interested in **Quantitative Finance, Data Science, Software Engineering, AI/ML, Applied Mathematics, Renewable Energy Technologies**
 
 - 📫 Reach me at **aawas22@seas.upenn.edu**
   
