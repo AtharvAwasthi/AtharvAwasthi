@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Atharv Awasthi</h1>
 <h3 align="center">Math + CS @ <a href="https://www.viper.upenn.edu/">VIPER</a> | Data Science Masters @ Penn</h3>
 
-- 👨‍💻 Algorithm researcher at **Distributed Systems Laboratory**
+- 👨‍💻 Algorithm Research Intern at **Distributed Systems Laboratory**
 
 - 🤝 Teaching *Data Structures and Algorithms* at **Penn Engineering** and *Graudate Probability* at **The Wharton School**
 
