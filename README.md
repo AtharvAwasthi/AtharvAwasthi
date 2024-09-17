@@ -5,7 +5,7 @@
 
 - 🤝 Teaching *Data Structures and Algorithms* at **Penn Engineering** and *Graudate Probability* at **The Wharton School**
 
-- 🌱 Completed coursework in **Discrete Mathematics; Data Structures and Algorithms, Automata, Computability, and Complexity; Big Data Analytics; Machine Learning; Databases; Differential Equations; Advanced Linear Algebra; Real Analysis; Probability; Ethical Algorithm Design; Operating Systems**
+- 🌱 Completed coursework in **Discrete Mathematics; Data Structures and Algorithms, Automata, Computability, and Complexity; Big Data Analytics; Machine Learning; Artificial Intelligence; Modern Data Mining; Databases; Differential Equations; Advanced Linear Algebra; Real Analysis; Complex Analysis; Probability; Ethical Algorithm Design; Operating Systems**
 
 - ⚡ Interested in **Quantitative Finance, Data Science, Software Engineering, AI/ML, and Renewable Energy Technologies**
 
